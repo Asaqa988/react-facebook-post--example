@@ -1,0 +1,29 @@
+.buttons-div {
+
+
+    display: flex;
+
+    padding: 20px;
+}
+
+
+#Like-Button{
+    font-size: large;
+    background-color: blue;
+    margin: 10px;
+    height: 35px;
+}
+
+#share-Button {
+    font-size: large;
+    margin: 10px;
+
+    background-color: aquamarine;
+}
+
+#comment-Button{
+    font-size: large;
+    margin: 10px;
+
+    background-color: orange;
+}
